@@ -1,0 +1,6 @@
+__pycache__
+cards.db
+.env
+venv
+data
+.idea
